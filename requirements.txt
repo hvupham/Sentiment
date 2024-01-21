@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 transformers
 torch
 nltk
@@ -7,3 +8,15 @@ matplotlib
 openpyxl
 gradio
 scipy
+=======
+transformers
+torch
+nltk
+python-docx
+pandas
+matplotlib
+openpyxl
+gradio
+scipy
+docx2txt
+>>>>>>> 0f0b2036bb929536a5240f22126e6be0c43d94c2
