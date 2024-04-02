@@ -8,14 +8,5 @@ matplotlib
 openpyxl
 gradio
 scipy
-transformers
-torch
-nltk
-python-docx
-pandas
-matplotlib
-openpyxl
-gradio
-scipy
 docx2txt
 
